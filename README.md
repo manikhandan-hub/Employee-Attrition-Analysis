@@ -38,12 +38,13 @@ Score 4: 18%
 The trend reveals a higher attrition rate among those with a lower work-life balance score.
 
 ### Attrition by Marital Status :
-Breaks down attrition by marital status:
+Attrition by marital status:
 
-Single: 25.53% attrition rate.
-Married: 12.48%
-Divorced: 10.09%
-This data suggests that single employees have a higher likelihood of attrition.
+#### Single: 25.53% 
+#### Married: 12.48%
+#### Divorced: 10.09%
+
+When we eximine single employees shows have a higher likelihood of attrition.
 
 ### Age Distribution:
 
