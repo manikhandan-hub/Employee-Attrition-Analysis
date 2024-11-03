@@ -54,5 +54,5 @@ Attrition rates decline significantly after age 40.
 This age-based trend highlights younger employees as a high-risk group for turnover, potentially due to early career transitions.
 
 ### Conclusion:
-After analysed data from organisation.Salary hike percentage is 15.21% which seems correct ratio and employee average working years in our company is 7. The Problem is travel for work purpose is high for attrited employees which is more 52% so we have consider for travel and work life balance also very low when we check with ratings for work life balance.
+After analysed data from organisation.Salary hike percentage is 15.21% which seems correct ratio and employee average working years in our company is 7. Business Travel is high for attrited employees which is more 52% so we have to consider and if Possible have to reduce and work life balance chart clearly shows very low rating points makes employees to left from organisation.
 
