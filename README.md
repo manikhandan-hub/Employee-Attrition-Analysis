@@ -15,10 +15,10 @@ The average employee works 7 years in our company.
 16.12% attrition rate the percentage of employees who have left the company.
 
 ### Salary Hike Of Employees:
-36% of attrited employees had a salary hike of above 20%.
-33% received a 10-15% hike.
-31% had a 15-20% hike before leaving.
-The Percentage Clearly Shows That Salary Hike Is Not Involving For Attrition.
+#### 36% of attrited employees had a salary hike of above 20%.
+#### 33% received a 10-15% hike.
+#### 31% had a 15-20% hike before leaving.
+#### The Percentage Clearly Shows That Salary Hike Is Not Involving For Attrition.
 
 ### Attrition by Work Travel:
 how travel frequency impacts attrition:
