@@ -1,4 +1,4 @@
-## Employee-Attrition-Analysis
+## HR-Attrition-Analysis
 Overview:
 The analysis focuses on the correlation between employee tenure, salary hikes, work-life balance, travel requirements, marital status, and age, allowing HR leaders to identify patterns and target areas for improving employee retention.
 
