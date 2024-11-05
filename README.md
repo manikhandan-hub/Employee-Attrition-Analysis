@@ -31,7 +31,7 @@ how travel frequency impacts attrition:
 ### Work-Life Balance Impact :
 Shows attrition rates by work-life balance scores (1-4 scale):
 
-### Point 1: 31% attrition rate, indicating poor work-life balance.
+### Score 1: 31% attrition rate, indicating poor work-life balance.
 ### The trend reveals a higher attrition rate among those with a lower work-life balance score.
 
 ### Attrition by Marital Status :
