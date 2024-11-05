@@ -23,18 +23,15 @@ The average employee works 7 years in our company.
 ### Attrition by Work Travel:
 how travel frequency impacts attrition:
 
-52% of employees who travel more are attrited.
-31% with less travel are attrited.
-17% who do not travel at all are attrited.
-These insights highlight that increased travel may contribute to higher attrition rates.
+### 52% of employees who travel more are attrited.
+### 31% with less travel are attrited.
+### 17% who do not travel at all are attrited.
+### These insights highlight that increased travel may contribute to higher attrition rates.
 
 ### Work-Life Balance Impact :
 Shows attrition rates by work-life balance scores (1-4 scale):
 
-### Score 1: 31% attrition rate, indicating poor work-life balance.
-### Score 2: 17%
-### Score 3: 14%
-### Score 4: 18%
+### Point 1: 31% attrition rate, indicating poor work-life balance.
 ### The trend reveals a higher attrition rate among those with a lower work-life balance score.
 
 ### Attrition by Marital Status :
@@ -48,10 +45,10 @@ When we eximine single employees shows have a higher likelihood of attrition.
 
 ### Age Distribution:
 
-Employees under 30 years have a 4.63% attrition rate.
-Those aged 30-40 years have the highest attrition at 5.31%.
-Attrition rates decline significantly after age 40.
-This age-based trend highlights younger employees as a high-risk group for turnover, potentially due to early career transitions.
+### Employees under 30 years have a 4.63% attrition rate.
+### Those aged 30-40 years have the highest attrition at 5.31%.
+### Attrition rates decline significantly after age 40.
+### This age-based trend highlights younger employees as a high-risk group for turnover, potentially due to early career transitions.
 
 ### Conclusion:
 After analysed data from organisation.Salary hike percentage is 15.21% which seems correct ratio and employee average working years in our company is 7. Business Travel is high for attrited employees which is more 52% so we have to consider and if Possible have to reduce and work life balance chart clearly shows very low rating points makes employees to left from organisation.
