@@ -31,11 +31,11 @@ These insights highlight that increased travel may contribute to higher attritio
 ### Work-Life Balance Impact :
 Shows attrition rates by work-life balance scores (1-4 scale):
 
-Score 1: 31% attrition rate, indicating poor work-life balance.
-Score 2: 17%
-Score 3: 14%
-Score 4: 18%
-The trend reveals a higher attrition rate among those with a lower work-life balance score.
+### Score 1: 31% attrition rate, indicating poor work-life balance.
+### Score 2: 17%
+### Score 3: 14%
+### Score 4: 18%
+### The trend reveals a higher attrition rate among those with a lower work-life balance score.
 
 ### Attrition by Marital Status :
 Attrition by marital status:
